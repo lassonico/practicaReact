@@ -7,7 +7,6 @@ export default function Caracters(props){
     }   
 
 
-
     return(
         <div className="characters">
             
